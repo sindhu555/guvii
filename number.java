@@ -16,7 +16,7 @@ class Ideone
 		}
 		else
 		{
-			System.out.println("number is 0");
+			System.out.println("Zero");
 		}
 	}
 }
