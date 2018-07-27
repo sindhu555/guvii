@@ -12,7 +12,7 @@ class Ideone
 		}
 		else if(n<0)
 		{
-			System.out.println("Negitive");
+			System.out.println("Negative");
 		}
 		else
 		{
